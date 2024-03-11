@@ -6,3 +6,8 @@
    | | |  ___/  |  __|   | | | . ` | |  | |  __| |  _  /
   _| |_| |      | |     _| |_| |\  | |__| | |____| | \ \
  |_____|_|      |_|    |_____|_| \_|_____/|______|_|  \_
+
+
+git clone https://github.com/esp3c/IP-FINDER.git 
+cd IP-FINDER python3 
+ip-finder.py
